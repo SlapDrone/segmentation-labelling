@@ -26,6 +26,8 @@ You can verify the installation by opening Git Bash (or PowerShell if you didn't
 - Open your "Git GUI" app 
 - Select "Clone an existing repository"
 - Fill in the fields in the image below (the repository will be downloaded to the target folder). *see image below*.
+    - The source location should be `https://github.com/SlapDrone/segmentation-labelling.git`
+    - The target directory is wherever you want to save it locally
 
 #### Option 2 - If you want to do this on the command line (Git Bash or PowerShell)
 - Navigate to where you want to save it (You'll be at `C:\Users\YourName` when you open your shell. You can just put it here, or elsewhere by `cd`-ing to another directory, and/or creating a new one with `mkdir`).
