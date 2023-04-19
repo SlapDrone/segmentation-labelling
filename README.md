@@ -7,4 +7,6 @@ First, you need to install Docker and Docker Compose on your computer. The easie
 
 Open the installer, check both boxes during configuration, close and log out, log back in, then accept the license agreement. The docker desktop engine should (hopefully) launch without issue.
 
+You can verify the installation by opening PowerShell and running `docker run hello-world`. It should download an image, and print a "Hello from Docker" message.
+
 
