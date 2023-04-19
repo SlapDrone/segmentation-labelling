@@ -1,4 +1,4 @@
-# parametrix-segmentation-labelling
+# segmentation-labelling
 Self-contained instructions and assets to install, set up and run the [Hitatchi semantic segmentation editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) from scratch.
 
 ## Installation
