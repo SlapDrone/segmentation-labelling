@@ -88,6 +88,8 @@ Open your browser and type in to `localhost:81`. After a few seconds of loading 
 ![Seg Editor Homepage](./static/25-seg-editor-homepage.PNG)
 ![Seg Editor Example](./static/26-seg-editor-example.PNG)
 
+If you want to close the app again, just open the Git Bash terminal that you are running it from and hit `Ctrl+C`.
+
 ## Notes
 
 The annotations available, and the associated icons, are set in the [settings.json](./settings.json) file in this repository. You can add your own annotations and icons there and select them in the app (see screenshow below). You can edit the json in any (decent) text editor. I use [VSCode](https://code.visualstudio.com/). The available icons can be viewed and searched [here](https://pictogrammers.com/library/mdi/). 
